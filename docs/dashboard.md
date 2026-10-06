@@ -1,4 +1,3 @@
-````markdown
 # Grafana IDS Dashboard
 
 ## Overview
@@ -541,4 +540,3 @@ EVE JSON fields for visualization.
 
 The final design intentionally avoids redundant panels while retaining  
 the information required to understand the laboratory's IDS activity.
-````
