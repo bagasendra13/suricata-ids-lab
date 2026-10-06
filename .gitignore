@@ -1,0 +1,32 @@
+# Suricata logs
+*.log
+*.log.*
+eve.json
+fast.log
+stats.log
+http.log
+dns.log
+tls.log
+alert-debug.log
+
+# Runtime / temporary files
+*.tmp
+*.temp
+*.pid
+
+# Secrets and credentials
+.env
+*.key
+*.pem
+*.crt
+credentials*
+secrets*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
