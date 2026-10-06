@@ -1,4 +1,3 @@
-````markdown
 # System Architecture
 
 ## Overview
@@ -502,4 +501,3 @@ Grafana visualizes the resulting security information.
 
 Nginx provides a simple presentation layer that connects the project  
 landing page to the IDS dashboard.
-````
