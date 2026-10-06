@@ -50,7 +50,7 @@ LogQL
       |
       v
 Grafana IDS Dashboard
-
+```
 
 ---
 
