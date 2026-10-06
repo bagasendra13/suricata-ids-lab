@@ -1,4 +1,3 @@
-````markdown
 # Suricata Detection Rules
 
 ## Overview
@@ -533,4 +532,3 @@ coverage with alert precision.
 
 The broad HTTP rule intentionally generates additional noise, while  
 more specific rules demonstrate how detection conditions can be refined.
-````
