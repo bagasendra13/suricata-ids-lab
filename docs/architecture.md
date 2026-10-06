@@ -53,7 +53,7 @@ and Grafana into a single monitoring workflow.
                   |     Grafana      |
                   |  IDS Dashboard   |
                   +------------------+
-
+```
 
 ---
 
