@@ -1,4 +1,3 @@
-````markdown
 # Lightweight Suricata IDS Lab
 
 A lightweight Intrusion Detection System (IDS) laboratory built with
@@ -527,4 +526,3 @@ dashboard.
 The project also demonstrates an important IDS principle: broader  
 detection rules can increase visibility but may also generate additional  
 alert noise, making rule refinement an important part of IDS development.
-````
